@@ -29,4 +29,5 @@ clean code 리뷰를 진행합니다.
 - 09 / 10 (~06/14) soohyeon-won
 - 11 / 12 (~06/21) eunjin-park
 - 13 / 14 (~06/28) soohyeon-won
-- 18 (~07/05) eunjin-park
+- 16 / 17 (~07/05) eunjin-park
+- 18 (~07/05)      soohyeon-won
