@@ -30,20 +30,3 @@ clean code 리뷰를 진행합니다.
 18. 부록A. 동시성2
 19. ~부록B. org.jfree.date.serialDate~
 20. ~부록C. 휴리스틱의 교차 참조 목록~
-
-~# 7주 스터디
-- 05 / 06 (~05/31) soohyeon-won
-- 07 / 08 (~06/07) eunjin-park
-- 09 / 10 (~06/14) soohyeon-won
-- 11 / 12 (~06/21) eunjin-park
-- 13 / 14 (~06/28) soohyeon-won
-- 16 / 17 (~07/05) eunjin-park
-- 18 (~07/05)      soohyeon-won~
-
-# 스터디 일정 변경
-책 배송이 늦어져 담당자를 변경합니다.
-- 02 / 03 (~05/31) soohyeon-won
-- 04 / 05 (~06/07) soohyeon-won
-- 06 / 07 (~06/14) -
-- ...
-
