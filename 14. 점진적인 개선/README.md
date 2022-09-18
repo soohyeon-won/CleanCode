@@ -22,6 +22,7 @@ protocol Collection: Sequence // protocol Sequence
 Collection프로토콜은 Sequence를 conform
 for -> Iterator + while
 
+~~~
 struct Zedd: Sequence, IteratorProtocol {
     
     typealias Element = Int
@@ -33,6 +34,9 @@ struct Zedd: Sequence, IteratorProtocol {
         return current
     }
 }
+~~~
+
 💡 Iterator에서 nil을 리턴하는것은 완료를 의미합니다.
 
-출처: https://zeddios.tistory.com/1340 [ZeddiOS:티스토리]
+## 참고
+[Iterator https://zeddios.tistory.com/1340 [ZeddiOS:티스토리]]
